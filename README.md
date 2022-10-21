@@ -1,4 +1,4 @@
-## Backtraking algorithm
+## Backtracking algorithm
 #### Revert back to the previous step or solution, as we determine that our current solution cannot be continued into a complete one. 
 
 ## Sudoku board():
